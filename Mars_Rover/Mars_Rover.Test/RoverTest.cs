@@ -4,7 +4,7 @@ using Xunit;
 
 namespace Mars_Rover.Test
 {
-    public class RoverShould
+    public class RoverTest
     {
         [Fact]
         public void SpinLeft()
